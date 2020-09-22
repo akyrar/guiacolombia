@@ -1,0 +1,54 @@
+body {
+  background-color: #7b80d6;
+  font-family: "Helvetica", sans-serif; 
+  color: #de96be;
+}
+nav ul {
+    background-color: #7BD6A3;
+}
+nav ul li {
+    list-style-type: none;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+nav ul {
+  background-color: #7BD6A3;
+  border-style: solid;
+  border-color: #47c67f;
+  border-width: 4px;
+  padding: 10px;
+  border-radius: 25px;.
+}
+nav ul li a {
+color: #f1ea7f;
+}
+
+
+
+/**********************************
+This section is for styling tables
+***********************************/
+table, th, td {
+  border: 3px solid #deae31
+  ;
+  border-collapse: collapse;
+}
+tr {
+  background-color: #eacc7d ;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: #4a5255;
+}
+td {
+  color: black;
+}
+/********************************/
